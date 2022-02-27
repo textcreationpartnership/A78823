@@ -1,0 +1,296 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings packet of letters taken by Colonell Rossiter, as they were carrying from Newark to Belvoyr, on Munday last, Octob. 6. 1645. With letters from the King to Sir Gervase Lucas, Governour of Belvoyr, from the Lord Byron, and from Oneale (in Ireland) to the King. Wherein is discovered the whole businesse of the Kings designes, and other matters of great importance to the whole kingdome: with some observations upon the said letters, for publike satisfaction. These letters were sent to the Parliament, and published according to order.</title>
+            <author>Charles I, King of England, 1600-1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78823</idno>
+            <idno type="STC">Wing C2359</idno>
+            <idno type="STC">Thomason E304_22</idno>
+            <idno type="STC">ESTC R200317</idno>
+            <idno type="EEBO-CITATION">99861119</idno>
+            <idno type="PROQUEST">99861119</idno>
+            <idno type="VID">113247</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78823)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113247)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 50:E304[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings packet of letters taken by Colonell Rossiter, as they were carrying from Newark to Belvoyr, on Munday last, Octob. 6. 1645. With letters from the King to Sir Gervase Lucas, Governour of Belvoyr, from the Lord Byron, and from Oneale (in Ireland) to the King. Wherein is discovered the whole businesse of the Kings designes, and other matters of great importance to the whole kingdome: with some observations upon the said letters, for publike satisfaction. These letters were sent to the Parliament, and published according to order.</title>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>Byron, John Byron, Baron, 1598 or 9-1652.</author>
+                  <author>O'Neill, Owen Roe, 1590?-1649.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R. Austin and J. Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Octob. 13. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Correspondence --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Correspondence --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:113247:1"/>
+            <pb n="1" facs="tcp:113247:1"/>
+            <head>A Copie of Colonell <hi>Roſsiters</hi> Letter, who took the KINGS Packet.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have ſent (with theſe two Letters to the Speaker of the Houſe of Com<g ref="char:EOLhyphen"/>mons, and to the Committee of both Kingdomes) two intercepted Letters, going from Newarke to Belvoyr, which I ſend incloſed: The laſt night a party of the Kings horſe broke into Linſey, but I hope that our party there are ſtrong enough for them; being Major GIBS Regiment, and Cap<g ref="char:EOLhyphen"/>taine PEARTS Troup. The ſickneſſe is certain<g ref="char:EOLhyphen"/>ly in Newarke, and the increaſe of company there is like to increaſe it.</p>
+            <closer>
+               <signed>Your Servant, EDW. ROSSITER.</signed>
+               <dateline>Grantham <date>Octob. 7. 1645. at five a clock at night.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letters">
+            <pb n="2" facs="tcp:113247:2"/>
+            <head>The Copies of the Letters that were intercepted by Co<g ref="char:EOLhyphen"/>lonell <hi>Roſsiter</hi> coming from the King from Newark towards Belvoir.</head>
+            <div type="letter">
+               <head>
+                  <hi>To Sir</hi> Gervaſe Lucas <hi>the Governour of Belvoir Caſtle: Theſe haſte.</hi>
+               </head>
+               <head type="sub">[<hi>This Letter</hi> Hatton (<hi>an Officer) ſent by</hi> Gerhards <hi>order, after the Kings Letter was come to Gerhards hands, and with it was ſent the Kings Letter.</hi>]</head>
+               <opener>
+                  <salute>Deare Sir:</salute>
+               </opener>
+               <p>I Am commanded by the Lord <hi>Gerhard,</hi> to ſend you this order from the King, and withall to let you know he [<hi>Ger<g ref="char:EOLhyphen"/>hard</hi>] intends to be with you himſelf to morrow (he ſaith) in the morning: You will have a great many troubleſome gheſts, and amongſt them, a moſt faithfull ſervant, called</p>
+               <closer>
+                  <signed>
+                     <hi>Robert H<gap reason="illegible" resp="#UOM" extent="5 letters">
+                           <desc>•••••</desc>
+                        </gap>.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Copie of a Letter from the King.</head>
+               <head type="sub">[<hi>By His Majeſties owne command, and ſubſcribed</hi> Edward Waller.] <hi>To Sir</hi> Gervaſe Lucas <hi>Governour of Belvoir.</hi>
+               </head>
+               <byline>CHARLES R.</byline>
+               <p>TRuſtie and well beloved, Wee greet you well: Whereas We have for the preſent thought fit to diſpoſe our Horſe in this [<hi>Newark,</hi>] and all other Garriſons in theſe parts, whereby they may be ready for any ſervice, [<hi>whether to lye ſtill, to march into York-ſhire, to breake into the Aſſociation, or releeve Cheſter, if the Iriſh come in time.</hi>] Our pleaſure and command to you therefore is, that you immediately provide in that your Garriſon [<hi>Belvoir</hi>] fit accommodation for Ge<g ref="char:EOLhyphen"/>nerall <hi>Gerhards</hi> Horſe, being about three hundred, beſides your owne; and that you aſſiſt them in levying, and bring<g ref="char:EOLhyphen"/>ing in proviſions for the ſupply, both of horſe and men, out of the ſeverall Towneſhips allotted for their proviſions, du<g ref="char:EOLhyphen"/>ring their ſtay with you. Herein Wee expect you ſhall em<g ref="char:EOLhyphen"/>ploy
+<pb n="3" facs="tcp:113247:2"/>your beſt care and diligence. And ſo Wee bid you farewell.</p>
+               <p>From our Court at Newark, Octob. 6. 1645.</p>
+               <p>
+                  <hi>Here we ſee (by the Kings owne Letters) that he, and all the Councell about him, are ſo put to it, that they know not what to doe. It ſeemes the Kings deſigne is not then abſolutely reſolved on, and therefore the chiefeſt care they take, is to quarter them where the may be ready for any ſervice.</hi>
+               </p>
+               <p>
+                  <hi>We may ſee what a ſad condition the King hath brought himſelf to, and that eſpecially in theſe five reſpects.</hi>
+               </p>
+               <p n="1">1 That he hath but one Army left in the field, and dare not himſelfe quarter within two hundred miles of them, and yet they retreat before further Weſt.</p>
+               <p n="2">2 That all the aſſociate Counties are utterly againſt his co<g ref="char:EOLhyphen"/>ming amongſt them, and will allow him no releefe.</p>
+               <p n="3">3 That the King ſhould blocke himſelf up in a place where the Plague is, and ſo many people there, <hi>(for Colonell</hi> Roſſi<g ref="char:EOLhyphen"/>ters <hi>Letter ſaith</hi>) <hi>the ſickneſſe is certainly in Newarke.</hi>
+               </p>
+               <p n="4">4 That the Forces, Moneyes, and Helps, which the King moſt builds upon, ſhould be from forraign Popiſh Kingdoms.</p>
+               <p n="5">5 That yet he ſhould be ſo hardned, that he will not com<g ref="char:EOLhyphen"/>ply with the Parliament, to end the Warres.</p>
+               <p>
+                  <hi>You ſee here what the King commands in this Letter,</hi> fit ac<g ref="char:EOLhyphen"/>commodation for three hundred Horſe, beſides their owne, <hi>who are of themſelves ſuch a burden, that the Countrey is undone by them, Aſſeſſements muſt be made for horſe, and man, when as they have not only aſſeſſed, but plundered and robbed the Countrey moſt barbarouſly for their owne maintenance. And now</hi> Ger<g ref="char:EOLhyphen"/>hards <hi>men</hi> (who are many of them Iriſh Rebells) <hi>muſt be fur<g ref="char:EOLhyphen"/>ther provided for alſo by them, the moſt abſolute theeviſh plunde<g ref="char:EOLhyphen"/>rers in the Kingdome, as it is well knowne in Wales, where they have had the wofull experience of them, and yet</hi> Lucas <hi>is com<g ref="char:EOLhyphen"/>manded by the King to aſsiſt them.</hi>
+               </p>
+            </div>
+            <div type="letter">
+               <pb n="4" facs="tcp:113247:3"/>
+               <head>A Copie of a Letter ſent from the Lord <hi>Byron</hi> to the King, intercepted by the Cheſhire Forces.</head>
+               <head type="sub">
+                  <hi>For the Right Honourable the Lord</hi> Digby, <hi>Principall Secretarie of State.</hi>
+               </head>
+               <opener>
+                  <salute>My Lord:</salute>
+               </opener>
+               <p>I Received (together with your Lordſhips Letter) a double comfort, both the aſſurance of your Lordſhips recoverie from a dangerous ſickneſſe, and that I ſhall continue that place in your good opinion, wherewith I have ever thought my ſelfe ſo much honoured. To thoſe I may add another, which is the
+<note n="*" place="margin">The Character de<g ref="char:EOLhyphen"/>ciphered is thus, <hi>Hope I have ſhortly to enjoy your Lordſhips (much longed for) converſa<g ref="char:EOLhyphen"/>tion, where you may eaſe my oppreſſed thoughts of a burthen, which is almoſt grown too wiel<g ref="char:EOLhyphen"/>dy for them, any lon<g ref="char:EOLhyphen"/>ger to beare.</hi>
+                  </note> 68 17 53 30 6 9 33 50 52 26 37 25 53 4 3 54 7 3 63 40 6 9 63 7 58 4 5 9 53 4 27 37 33 9 38 62 31 52 42 33 59 53 6 82 66 27 19 63 4 35 63 6 52 66 4 62 43 3 40 53 6 1 33 6 4 5 7 9 31 43 7 66 43 62 26 31 7 53 30 38 14 26 37 60 27 3 17 63 28 82 33 21 57 63 19 50 80 50 14 3 33 26 6 40 35 33 9 37 50 54 31 53 37 82 14 58 36 15 26 29 63 20 26 59 34 7 10 5 3 4 21 33 60 31 43 23 2 59 53 15 49 66 22 21 53 65 26 43 60. For the preſent, I ſhall only informe your Lord<g ref="char:EOLhyphen"/>ſhip, and humbly deſire you to acquaint his Majeſtie with the condition of this place, and the ſtrong neceſſitie there is of a ſpeedy and powerfull releefe: I know it is uſuall for men to recommend the ſafety of thoſe places where their owne com<g ref="char:EOLhyphen"/>mands lye, as of higheſt concernment to his Majeſties ſervice, but truly I have wholly drawne my thoughts from any ſuch partiality, and only conſider this place now as really it ſtands to His Majeſties affaires, both in this Kingdome and Ireland,
+<pb n="5" facs="tcp:113247:3"/>to this place, wherein it is inferiour to (none other that I know, drawing with it all Wales, Lanca-ſhire, with the North of England; and what ſupplies His Majeſtie can ex<g ref="char:EOLhyphen"/>pect, either out of Ireland or Scotland. The two Princes when they had united their Forces and relieved Beeſton ca<g ref="char:EOLhyphen"/>ſtle and Cheſter, were earneſtly intreated by me to cleare this Countrey, before they departed out of thoſe petty Garriſons that infected Cheſter, but other conſiderations (at that time) hindered the effecting of it, and therefore with a promiſe that the Army ſhould continue in diſtance till Cheſter were furniſhed with Victualls, and Ammunition, I was con<g ref="char:EOLhyphen"/>tented to returne and undertake the government of that Gar<g ref="char:EOLhyphen"/>riſon, but the buſineſſe of Hereford intervening, P. <hi>Rupert</hi> was ſuddenly called away before either Ammunition or Vi<g ref="char:EOLhyphen"/>ctualls could be brought into Cheſter, and (together with his Highneſſe) marched away the remainder of the old Iriſh Regiments, with ſome other Horſe and Foot, the number of at leaſt a 200. ſo that I was left in the Towne onely with a Garriſon of the Citizens, and mine owne, and Colonell <hi>Naſtons</hi> Regiment, which both together made not up above ſix hundred men, whereof the one halfe being <hi>Maſtons</hi> men, I was forced ſoone after to ſend out of Towne, finding them by reaſon of their Officers (who were but ignorant Welch Gentlemen, and unwilling to undergo any ſtrict only) farre more prejudiciall then uſefull. The Rebels finding the Prince retreated with his army, and the County emptied of all ſoul<g ref="char:EOLhyphen"/>diers, but ſuch as was neceſſary for keeping the Garriſons, returned with all their Portes to blocke up Cheſter on all ſides, which ever ſince they have continued. The Welch (though they have men for member and Armes ſufficient to beat the Rebells out of Wales, yet) either they will not or durt not ſtirre, notwithſtanding the many orders I have ſent them: The <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>th is, ſo long as that curſed Commiſſion of
+<pb n="6" facs="tcp:113247:4"/>Array, or (at leaſt) ſuch Commiſſioners as are put into it, have any power there, the King muſt expect no good out of North Wales, and I am confident were it not for the Caſtles which are well provided both with men, victualls, and ammunition, that countrey had long ſince taken part with <hi>Brereton</hi> &amp; <hi>Mid<g ref="char:EOLhyphen"/>dleton.</hi> Thus your Lord ſees I am left in a condition neither to offend others, nor to defend my ſelfe, preſſed by a conſidera<g ref="char:EOLhyphen"/>ble Army of the Enemy, to joyne with the Lanca ſhire For<g ref="char:EOLhyphen"/>ces and Cheſhire,
+<note n="*" place="margin">This character de<g ref="char:EOLhyphen"/>ciphered is thus: <hi>All is, if ſpeedy releefe come not: the want of powder will be ſuffi<g ref="char:EOLhyphen"/>cient to blow mee up, there being not full eighteen barrels in the ſtore, nor any publike Magazine of victuall, nor any money for pub<g ref="char:EOLhyphen"/>like ſervice.</hi>
+                  </note> 50 54 59 9 6 7 8 37 30 66 27 2 4 66 54 60 9 10 26 35 63 31 26 6 58 21 3 33 66 20 43 63 53 19 46 53 36 27 26 22 1 9 64 65 60 26 57 28 10 18 40 29 9 66 6 3 21 53 80 54 53 11 31 26 66 36 36 3 17 66 24 26 80 26 66 9 6 18 15 53 3 18 36 54 64 26 9 10 17 3 66 26 6 60 80 50 14 14 26 54 59 37 9 6 43 33 60 37 3 53 4 60 6 53 4 81 43 6 12 30 51 65 54 9 35 32 26 31 51 82 50 44 9 6 26 54 19 52 40 3 21 52 51 54 59 19 53 22 43 6 2 18 53 4 30 52 65 54 9 32 26 37 26 4 52 9 35 2. I have the more fully related my condition to your Lordſhip, to the end that if any misfortune ſhould befall me before re<g ref="char:EOLhyphen"/>leefe come, it may appeare how little acceſſarie I have been to it; and for thoſe poore meanes I have left to maintaine this place, your Lordſhip may be aſſured I ſhall improve them to the uttermoſt for his Majeſties ſervice; and how unfortu<g ref="char:EOLhyphen"/>nate ſoever I may be, I ſhall leave an account of my charge befitting an honeſt man, and one whom (I hope) your Lord<g ref="char:EOLhyphen"/>ſhip ſhall not bluſh for to own for your Lordſhips moſt hum<g ref="char:EOLhyphen"/>ble and faithfull Servant,</p>
+               <closer>
+                  <signed>John Byran.</signed>
+                  <dateline>C. A. <date>1645.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="discussion">
+               <pb n="7" facs="tcp:113247:4"/>
+               <p>
+                  <hi>Here you may ſee who beares the ſway? popiſh</hi> Digby <hi>and his ſmiles are the beſt comfort at Court; and that they may ſtand in his good opinion, a great honour,</hi> Digby <hi>being (by the Queenes means) the Kings right hand and you ſee how his thoughts burthen him, in which condition he has no comfort but what his hopes are in</hi> Digby, <hi>a ſad condition for England to have a companie of Papiſts that ſway all with the King, and are not thoſe exceeding blind buzzards that will follow them up and down, like ſo many tantany piggs, to be fed like the ould London Apes: but mark the deſigne: for that is the meanest thing to be looked after.</hi>
+               </p>
+               <p n="1">1. <hi>Cheſter</hi> hath been kept againſt the Parliament for the conveying of <hi>ſupplyes to his Majeſty out of Ireland and Scot<g ref="char:EOLhyphen"/>land.</hi> From <hi>Oneale</hi> and from <hi>Montroſſe</hi> and you ſo that he gave an accompt of ſome Iriſh that <hi>Rupert</hi> when he was at Cheſter tooke out of that Gariſon and ſaith that <hi>which his highneſſe marched away to the remainder of the ould Iriſh Regiments?</hi> the I<g ref="char:EOLhyphen"/>riſh rebels have come over thither ſeverall times.</p>
+               <p n="2">2. The Parliaments forces he calls Rebells; becauſe they come againſt thoſe Iriſh; If they ſhould prevaile, all Proteſtants ſhould be uſed by them no better.</p>
+               <p n="3">3. The proteſtants that are of the Kings Commiſſion in Wales he would faine have removed: that they may be all pa<g ref="char:EOLhyphen"/>piſts, and ſuch as will comply with the Iriſh rebells, and obey his orders in Ioyning with them againſt the Parliament.</p>
+            </div>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:113247:5"/>
+            <head>A COPY OF A LETTER Sent from <hi>Daniel Oneal</hi> from <hi>Dmblin</hi> in <hi>Jreland.</hi>
+               <note place="margin">This Da<g ref="char:EOLhyphen"/>niel Oneal was once a a priſoner in the Tower, a Iriſh rebell Who brake out and ran to the King.</note>
+            </head>
+            <head type="sub">For the Honourable the Lord DIGBY, principall Secretary to his MAjESTY.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>THere lately landed here Mr.
+<note n="(a)" place="margin">O Bryan <hi>though a native Iriſh, yet being o Proteſtant, &amp; ſeeing how the King complyed with the Popiſh rebels, diſerted the King ſince, and is now pri<g ref="char:EOLhyphen"/>ſoner in</hi> Dublin <hi>by the Kings anthority.</hi>
+               </note> 
+               <hi>O Bryan,</hi> ſent with a diſpatch from the
+<note n="(b)" place="margin">
+                  <hi>Thoſe Iriſh agents were at</hi> Oxford <hi>then with the King.</hi>
+               </note> agents to their Councell, with the manner how he loſt ſome letters which came to my Lord Marqueſſe his view, I ſend you: the man (Mr. <hi>Martin,</hi> and Mr. <hi>Plunket</hi> bid their councell beware of, I am told by a falſe brother) is I: by their finding out what my Lord Marqueſſe wrot to you cencerning their pardons, I imagine they found out what you writ to me concerning it, and the ſeverall diſpatches I made from hence, have a care hereafter whom you truſt, for I need not tell you how prejudiciall ſuch Trai<g ref="char:EOLhyphen"/>tors are to preſſe you to be induſtrious to find them our.</p>
+            <p>By my Lord Marqueſſe former diſpatch as well as this, you</p>
+            <p>
+               <pb n="9" facs="tcp:113247:5"/>
+By my Lord Marqueſſe former diſpath as well as this, you will find you are to expect no more from the
+<note n="(c)" place="margin">
+                  <hi>The meanes that at the King could not parvaile with Generall</hi> Leſ<g ref="char:EOLhyphen"/>ley <hi>and the King in England which was laboured for, ſo neither could</hi> Or<g ref="char:EOLhyphen"/>mond <hi>prevail with any of the Scots in Ireland, ſo come o<g ref="char:EOLhyphen"/>ver, and joyns with the King.</hi>
+               </note> new and old Scots here, then from thoſe with <hi>Leſly</hi> in England. By my
+<note n="(d)" place="margin">
+                  <hi>The great</hi> Oneale <hi>is his Vn<g ref="char:EOLhyphen"/>cle.</hi>
+               </note> Vncles meanes I have got the moſt refractory part of the ſupreame Councell that were againſt the Marqueſſe (which is the Clergy) to conſent to 6000 foot and 1000 horſe, beſides my Vncles Army in Vl<g ref="char:EOLhyphen"/>ſter, defigned by the Iriſh for the ſuppreſsi<g ref="char:EOLhyphen"/>on of the Scots; be put under the Marqueſſes command. His Lordſhip I muſt confeſſe finds ſome difficulties which I doe not, as that it would be prejudidiciall to his Majeſty, un<g ref="char:EOLhyphen"/>ſafe for himſelfe, before there were a peace, or a command to joyne with the Iriſh, this nicity is too well knowne unto them, for they force the Covenant upon all the Engliſh. Theſe few townes the Engliſh poſſeſſe, threatned to be plundered. That of
+<note n="(e)" place="margin">Arthur Chicheſter <hi>married</hi> Digbies <hi>ſiſter.</hi>
+               </note> your brother Chiche<g ref="char:EOLhyphen"/>ſter, if your valiant ſiſter had not prevented it, had been gone laſt week. If there none wiſer then I his Maje<g ref="char:EOLhyphen"/>ſty ſhould ſend another Sir P. Com<g ref="char:EOLhyphen"/>manding him to accept that Army, and root out thoſe Rebeles, whoſe be<g ref="char:EOLhyphen"/>ing here, diſtracts all our deſignes.</p>
+            <p>I have recommended another thing to you very often, which was a po<g ref="char:EOLhyphen"/>ſture command for my Lord Mar<g ref="char:EOLhyphen"/>queſſe to commit the
+<note n="(f)" place="margin">
+                  <hi>Thoſe foure are Sir</hi> William Parſons, <hi>Sir</hi> Adam Loftus, <hi>Sir</hi> Iohn Temple, <hi>Sir</hi> Robert <hi>Me<g ref="char:EOLhyphen"/>ridith, who are all pre<g ref="char:EOLhyphen"/>ſent in</hi> Dublin <hi>caſtle; and them kept very ſtrictly upon the inſtigation of the Iriſh Rebels, and ſo commanded to bee by antherity from the King.</hi>
+               </note> 4 impea<g ref="char:EOLhyphen"/>ched members. As yet, his Lord<g ref="char:EOLhyphen"/>ſhips heares nothing matteriall from you, I will only adde this
+<pb n="10" facs="tcp:113247:6"/>to what I have ſaid before, if your Lordſhip knew the hurt their lible doth to his Majeſty, you would not neglect theſe things as you doe. It is here ſaid publikely, and by ſome of their own friends, that the Duke of Richmond hath had great ſummes of mony from them, and Maſter <hi>Web</hi> hath undertaken their potection. But I beſeech, let not his Majeſty be ſold to preſerve any but
+<note n="(g)" place="margin">The Du<g ref="char:EOLhyphen"/>tchos of Rich<g ref="char:EOLhyphen"/>mond is caled Pap. by a Nick<g ref="char:EOLhyphen"/>name.</note> Pap. and not her neither, if ſhe be not better diſpoſed.</p>
+            <p>The men with their proviſions and Armes, for 105. will God willing be at 42. 20. 186. 79. 14. 16. 60. 205. 202. 26. 32. 36. 38. 53 17. 4. 5. 11. 12. 62 72. 80. 92. 86. 76 44. 206. 27. 28, this is by advice rom 30. 81. 14. 300. 174. 160. 70. 10. 1. 2. 13. 24. 12. 82. 81 41. 73 90. 19. 16. 87. 66. 22. 33. 54. 203. 39. 102 34. 84. 52. 58. 10. 6. 6. 164. 172, you told me ſhould waite on the journey, diſpatch them away, we want them extreamly, this letter of
+<note n="(h)" place="margin">An honeſt man for the Par<g ref="char:EOLhyphen"/>liament, ſome letters of her were intercep<g ref="char:EOLhyphen"/>ted.</note> Major <hi>Royden,</hi> will informe you much of the ſtate of that part of the Kingdome, this other of <hi>Shells</hi> who is a merchant imployed about Arms, I have ſent you, that if you like of the meanes, you may ſend the Lord Marqueſſe word, to what part of the Kingdome you would have them tranſpor<g ref="char:EOLhyphen"/>ted.</p>
+            <p>In caſe his Majeſty agrees with the Iriſh Rebels Agents, let this eſpeciall care be to condition that the chooſing of the ten thouſand men, they profer to aide his Majeſty withall, be left to my Lord Marqueſſe. So the 6000 now levied for the ſuppreſsion of the Scots ſhall not be any part of the 10000, as the Councell now imagine they ſhall. Beſides, it will draine them of their Armes; ſo as it will diſinable them to at<g ref="char:EOLhyphen"/>tempt ſoon any other miſchief, let it be conditioned likewiſe that they furniſh them with Armes, Artillery, Carriage<g ref="char:EOLhyphen"/>cloathes, I muſt confeſſe I would have them 14 dayes pay af<g ref="char:EOLhyphen"/>ter landing;</p>
+            <p>
+               <pb n="11" facs="tcp:113247:6"/>
+Her Majeſty hath recommended ſome one that ſhe names, for the Vice-Treaſurers place to my Lord Marqueſſe, which makes me think ſhe is not ingaged to Maſter <hi>Spencer</hi> as I belei<g ref="char:EOLhyphen"/>ved ſhe was, I gather ſome hopes now, that your Lordſhips in<g ref="char:EOLhyphen"/>terceſsion for
+<note n="(i)" place="margin">
+                  <hi>Sir</hi> Adam Loftus <hi>his place, one of them whom they have impri<g ref="char:EOLhyphen"/>ſoned, who is the true Vice Treaſu<g ref="char:EOLhyphen"/>rer of Ireland.</hi>
+               </note> me, will not be as fruitleſſe as I imagined. The Marqueſſe ſhewed me a letter from <hi>Arthur Trever,</hi> which ſaith, <hi>P. Rupert</hi> hath his old diſtructive deſigne for Norfolke on foot again, I feare his neceſsi<g ref="char:EOLhyphen"/>tous Counſell ſtudies more freſh countries, then to play a ſure game for his Majeſtie. If you doe not cleare the Coaſts of Lancaſhire and Cheſhire, before any thing elſe be done; never credit me if you doe not render this Country wholly, unſerviceable to that. And his Highneſſe ſent to deſire that his inſtructions might hereafter iſſue by my Lord <hi>Iarmin,</hi> in which hee hath done you a ſpeciall curteſie. I am my deareſt Lord, Your moſt affectionate friend.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>October</hi> 9. 1645.</date>
+               </dateline>
+               <signed>DANIEL ONEALE.</signed>
+            </closer>
+         </div>
+         <div type="discussion">
+            <p>
+               <hi>This letter is from Collonel</hi> Daniel Oneale <hi>a Popiſh prieſt, and an Iriſh rebell, who was protected in the Kings Army when he broke out of the tower, and hath ſince beene a great agent for the King in Jreland, this Generall</hi> Oneale <hi>is neer alied in blood to</hi> Philome-Oneale, <hi>to the great</hi> Okconeale. <hi>and moſt of the cheefe of the plot<g ref="char:EOLhyphen"/>ters that firſt raiſed the rebellion in Ireland, and he is the only man made choyſe of the act for the King with the Marques of Ormond, in Jreland: and there is very ſecre tintercourſe betwene</hi> Digby <hi>and this</hi> Daniel Oneale, <hi>as you may ſee by their private carrestors, nay you may ſee that he is a man highly eſteemed on, for he tels</hi> Dig<g ref="char:EOLhyphen"/>by <hi>of miſcarriages, and bids him have a care hereafter whom he doth truſt.</hi>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:113247:7"/>
+               <hi>But we may here ſee how their wheles have been going: and what they have ſecretly plotted for the ruine of the proteſtants, and the Parliament, and the Kingdome.</hi>
+            </p>
+            <p n="1">1. Generall <hi>Leſhly</hi> and the Scots with him were largely of<g ref="char:EOLhyphen"/>fered if they would come in to the King, but that would not prevale here. The like was here to entiſe the Scots that were in Ireland, to perſwade them to come over into England, to joyn with the King againſt the proteſtants here, but that would not prevaile there neither, and when more Scots came over into Ireland they were tryed too, but ſtill in vain.</p>
+            <p n="2">2. Then the Marques of Ormond he does what he can do, with the Iriſh Rebells, to perſwade them to ſend over ſome ayd to the King, and he could not prevaile of himſelfe, and therefore this Daniell <hi>Oneale</hi> he muſt help in the buſineſſe, and you ſee what accompt he gives of his prevailing. The words are thus. <hi>J have got the moſt refractory part of the ſu<g ref="char:EOLhyphen"/>preame councell that were againſt the Marques,</hi> (that is thoſe who hindred the going on of the treaty) and who are they? <hi>they are the Clergy</hi> (he ſaith) that is the prieſts, and Ieſuits and Fryers, of Ireland for a party to conquer us here, whilſt <hi>Oneale</hi> him<g ref="char:EOLhyphen"/>ſelf <hi>ſubdues them that the proteſtants</hi> in Viſter, with his Army there.</p>
+            <p n="3">3. The Marques, and the Iriſh Rebels had ſo plotted the buſineſſe, that in the firſt place a peace muſt be had with the I<g ref="char:EOLhyphen"/>riſh Rebels elſe <hi>it will be prejuditiall to his Majeſty.</hi>
+            </p>
+            <p n="4">4. In the next place the moſt eminent proteſtants in all I<g ref="char:EOLhyphen"/>reland they muſt be ſtrictly looked to, and ſecured for feare of acting any thing againſt the Papiſts, Sir <hi>William Parſons</hi> Sir <hi>A<g ref="char:EOLhyphen"/>dam Loftus,</hi> Sir <hi>John Temple,</hi> and Sir <hi>Robert Meridith,</hi> although they had been perſecuted before, and each of them bound in ten thouſand pound bonds a peece, not to depart the King<g ref="char:EOLhyphen"/>domes:
+<pb n="13" facs="tcp:113247:7"/>and to be ready when they ſhall be called for at ten dayes warning, yet that would not ſerve their tu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they muſt be kept cloſe priſoners, becauſe (being true hearted ho<g ref="char:EOLhyphen"/>neſt proteſtants,) <hi>their liberty doth his Maieſty much hurt; and he chargeth the Duke of Richmond and</hi> Web <hi>his ſecretary to be the cauſe of it,</hi> though very unlikely and he <hi>beſeecheth</hi> Digby <hi>that he will not let his Maieſty be ſould to preſerve any but the dutches of</hi> Richmond, <hi>&amp; ſhee muſt be palpably diſpoſed to,</hi> now you muſt un<g ref="char:EOLhyphen"/>derſtand that if it be for ſuch as are diſpoſed for the good of the Catholique Religion, they care not how the King is bought, and ſould for ſuch.</p>
+            <p n="5">5. There is a great unity in the Church but we have not the key to unlock it, but it is about haſting the Iriſh Rebels to the King, and trading with forraigne papiſts for Armes, and Ammunition,</p>
+            <p n="6">6. All this while there is a correſpondency betweene the Marques of Ormond, and the Queene; and ſhee muſt ſtrike the ſtroke in placeing the cheefe officers in Ireland, as well as in England; and perticulerly the vize treaſurers place of Ireland, which is Sir <hi>Adam Loftus</hi> his right, though the Queen be re<g ref="char:EOLhyphen"/>ſolved to have him out becauſe he is a proteſtant, and to put ſome Iriſh Papiſts in, in his roome, it ſeemes Spencer looked for it, but <hi>Oncale</hi> here you ſee hopes to get <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from him, and therefore knowing well, that <hi>Digby</hi> will do his utmoſt in the behalfe of ſuch an active Papiſt he tels him thus, <hi>I have ſome hopes now</hi> (ſaith he) <hi>that your Lordſhips interſeſſion for me will not be as fruitleſse as I immagined. And thus the papiſts are</hi> one for another all they can to have the greateſt places of truſt and power in their hands, and have prevailed much in it.</p>
+            <p n="7">7. In the laſt place he tells <hi>Digby</hi> that if the King durſt <hi>cleer Cheſhire, and Lancaſhire before any thing elſe be done, then the I<g ref="char:EOLhyphen"/>riſh will be wholly unſerviſable to him for England:</hi> And (the truth
+<pb n="14" facs="tcp:113247:8"/>is) if we take Cheſter, as is hoped the Iriſh wil hardly land in Ingland for the future.</p>
+            <p>Now if we way theſe things well, we may ſee how blind malignants are, who will not ſee what a ſnare the Papiſts have layd for us, and how much it concernes us to riſe all as one man to Ioyne with the Parliament, and with our perſons lives eſtates, goods, and all we have, adde and affect them till this popiſh party be totally ſubdued.</p>
+            <p>
+               <hi>There are</hi> other letters which the <hi>Lord Digby ſent to the Lord Byron from the King taken by Sir</hi> Iohn Gell, <hi>which letters are to encourage him to hold out Cheſter, that be ſhall be made field mar<g ref="char:EOLhyphen"/>tiall, Governour of</hi> Conway <hi>and Commander in cheefe of all the forces in Wales, with directions what to do in caſe that he be put to ſtraites, much is written in Ciphers, and divers perticulars of great conſequence are diſcovered therein.</hi>
+            </p>
+            <closer>
+               <signed>Subſcribed.
+DIGBY.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
